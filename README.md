@@ -33,10 +33,6 @@ Un mini-jeu interactif développé en **JavaScript**, où l'utilisateur peut jou
 
 ## 📚 Formation :
 Je suis actuellement en apprentissage en développement web Full Stack chez **3W Academy**, avec un accent particulier sur JavaScript et les technologies frontend/backend.
-
-## 💼 Expérience professionnelle :
-- **Développeur Web Full Stack (Apprentissage)** chez [Nom de l'entreprise]  
-  Développement d'applications web avec **JavaScript**, **React**, et **Node.js**.
   
 ## 🌱 Ce que j’apprends actuellement :
 - **TypeScript** : Amélioration de la qualité du code JavaScript en utilisant ce super-ensemble typé.
