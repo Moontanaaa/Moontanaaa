@@ -1,22 +1,61 @@
-# 💫 About Me:
-<br>👋 Welcome to my GitHub profile!<br><br>I'm a passionate Full Stack web developer focused on building modern websites and web applications, with expertise in creating responsive and intuitive interfaces. I also work on mobile development projects.<br><br>🔧 Technologies and Skills:<br>Frontend: HTML, CSS, JavaScript, Angular, React, Vue.js<br>Backend: Node.js, PHP<br>Mobile: React Native<br>Tools: Git, VSCode<br>🚀 What I love to do:<br>Designing optimized user experiences<br>Exploring new technologies to create modern and dynamic interfaces<br>Collaborating on open-source projects and sharing knowledge<br>Feel free to explore my projects and reach out if you'd like to collaborate on exciting projects!<br><br>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>👋 Bienvenue sur mon profil GitHub !<br><br>Développeur web Full Stack passionné, je m'intéresse à la création de sites et d'applications web modernes, avec une expertise dans les interfaces réactives et intuitives. Je travaille également sur des projets en développement mobile.<br><br>🔧 Technologies et compétences :<br>Frontend : HTML, CSS, JavaScript, Angular, React, Vue.js<br>Backend : Node.js, PHP<br>Mobile : React Native<br>Outils : Git, VSCode<br>🚀 Ce que j'aime faire :<br>Concevoir des expériences utilisateur optimisées<br>Explorer de nouvelles technologies pour des interfaces modernes et dynamiques<br>Collaborer sur des projets open-source et partager mes connaissances<br>N'hésitez pas à explorer mes projets et à me contacter pour échanger ou collaborer sur des projets passionnants ! 
+# 💫 À propos de moi :
+👋 Bienvenue sur mon profil GitHub !  
+Je suis **Fabio Montana**, un développeur web Full Stack passionné, spécialisé en **JavaScript**. Je crée des sites web modernes, des applications web et des applications mobiles, en mettant un point d'honneur sur l'expérience utilisateur. J'aime relever de nouveaux défis technologiques et trouver des solutions innovantes.
 
+## 🔧 Technologies et Compétences :
+- **Frontend** :
+  - HTML, CSS, **JavaScript** (Spécialisé)
+  - Frameworks : Angular, React, Vue.js
+- **Backend** :
+  - Node.js, Express.js, PHP, Symfony
+- **Mobile** : React Native
+- **Bases de données** : MySQL, Microsoft SQL Server
+- **Outils & Développement** :
+  - Git, GitHub, GitLab, VSCode, Netlify
+  - Figma, Canva (UI/UX Design)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mamouthzzz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moontanaaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabio-montana-a77a33267/) 
+## 🚀 Ce que j'aime faire :
+- **Conception UX/UI** : Créer des interfaces intuitives et interactives
+- **Développement Full Stack** : Des sites et applications performants avec JavaScript
+- **Mobile Development** : Applications mobiles fluides et réactives avec React Native
+- **Innovation** : Explorer de nouvelles technologies et méthodologies
+- **Open Source** : Contribuer à des projets collaboratifs et partager mes connaissances avec la communauté
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
+## 🎯 Projets récents :
+### **1. [Mon Application de Gestion de Projets](#)**  
+Une application complète de gestion de projets construite avec **React** pour le frontend et **Node.js** pour le backend. Elle permet aux utilisateurs de créer, suivre et gérer leurs projets en temps réel.
+
+### **2. [Mon Portfolio en ligne](#)**  
+Un site web personnel en **Vue.js** avec un design moderne et interactif, mettant en avant mon parcours et mes projets.
+
+### **3. [Jeu Pierre-Papier-Ciseaux](#)**  
+Un mini-jeu interactif développé en **JavaScript**, où l'utilisateur peut jouer contre l'ordinateur. C'est un projet simple qui met en avant mes compétences en manipulation du DOM.
+
+## 📚 Formation :
+Je suis actuellement en apprentissage en développement web Full Stack chez **3W Academy**, avec un accent particulier sur JavaScript et les technologies frontend/backend.
+
+## 💼 Expérience professionnelle :
+- **Développeur Web Full Stack (Apprentissage)** chez [Nom de l'entreprise]  
+  Développement d'applications web avec **JavaScript**, **React**, et **Node.js**.
+  
+## 🌱 Ce que j’apprends actuellement :
+- **TypeScript** : Amélioration de la qualité du code JavaScript en utilisant ce super-ensemble typé.
+- **Next.js** : Développement de sites web statiques et dynamiques ultra-rapides.
+  
+## 💡 Projets en cours :
+Je travaille actuellement sur plusieurs projets open-source et je suis toujours à la recherche de nouvelles opportunités pour collaborer avec d'autres développeurs et entreprises sur des idées créatives.
+
+## 🌐 Réseaux Sociaux :
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mamouthzzz)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moontanaaa_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabio-montana-a77a33267/)
+
+## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Moontanaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moontanaaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moontanaaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Moontanaaa&icon=5&color=2)](https://visitcount.itsvg.in)
+## 💰 Support :
+Si vous souhaitez soutenir mon travail, vous pouvez faire un don via PayPal :  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/montana.fabio42@gmail.com)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/montana.fabio42@gmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
